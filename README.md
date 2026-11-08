@@ -1,14 +1,11 @@
-<h1> 💠TEXTO💠</h1>
+<h1> 💠Calculadora de IMC💠</h1>
 
 <div>
-⚪Texto;
+⚪Atividade para criação de uma calculadora de IMC, com interface visual;
   <br>
-⚪Texto;
+⚪HtML;
   <br>
-⚪Texto;
+⚪CSS;
   <br>
-⚪Texto;
-  <br>
-⚪Texto.
-
+⚪JavaScript;
 </div>
